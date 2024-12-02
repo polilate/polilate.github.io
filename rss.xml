@@ -3,8 +3,8 @@
     <channel>
         <title>H-links ` ShokaX</title>
         <subtitle>H-T</subtitle>
-        <icon>https://polilate.github.io/blog/assets/favicon.ico</icon>
-        <link>https://polilate.github.io/blog</link>
+        <icon>https://polilate.github.io/assets/favicon.ico</icon>
+        <link>https://polilate.github.io</link>
         <author>
           <name>H-links</name>
         </author>
@@ -13,50 +13,50 @@
         <pubDate>Sun, 01 Dec 2024 21:35:08 +0800</pubDate>
         <lastBuildDate>Sun, 01 Dec 2024 21:35:08 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://polilate.github.io/blog/2024/12/01/computer-science/cpp/course-1/c1/</guid>
+            <guid isPermalink="true">https://polilate.github.io/2024/12/01/computer-science/cpp/course-1/c1/</guid>
             <title>c1</title>
-            <link>https://polilate.github.io/blog/2024/12/01/computer-science/cpp/course-1/c1/</link>
-            <category term="计算机科学" scheme="https://polilate.github.io/blog/categories/computer-science/" />
-            <category term="C++" scheme="https://polilate.github.io/blog/categories/computer-science/cpp/" />
-            <category term="郑莉老师C++语言程序设计" scheme="https://polilate.github.io/blog/categories/computer-science/cpp/course-1/" />
-            <category term="bar" scheme="https://polilate.github.io/blog/tags/bar/" />
-            <category term="baz" scheme="https://polilate.github.io/blog/tags/baz/" />
+            <link>https://polilate.github.io/2024/12/01/computer-science/cpp/course-1/c1/</link>
+            <category term="计算机科学" scheme="https://polilate.github.io/categories/computer-science/" />
+            <category term="C++" scheme="https://polilate.github.io/categories/computer-science/cpp/" />
+            <category term="郑莉老师C++语言程序设计" scheme="https://polilate.github.io/categories/computer-science/cpp/course-1/" />
+            <category term="bar" scheme="https://polilate.github.io/tags/bar/" />
+            <category term="baz" scheme="https://polilate.github.io/tags/baz/" />
             <pubDate>Sun, 01 Dec 2024 21:35:08 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://polilate.github.io/blog/2024/12/01/4/</guid>
+            <guid isPermalink="true">https://polilate.github.io/2024/12/01/4/</guid>
             <title>4</title>
-            <link>https://polilate.github.io/blog/2024/12/01/4/</link>
-            <category term="bar" scheme="https://polilate.github.io/blog/tags/bar/" />
-            <category term="baz" scheme="https://polilate.github.io/blog/tags/baz/" />
+            <link>https://polilate.github.io/2024/12/01/4/</link>
+            <category term="bar" scheme="https://polilate.github.io/tags/bar/" />
+            <category term="baz" scheme="https://polilate.github.io/tags/baz/" />
             <pubDate>Sun, 01 Dec 2024 21:29:14 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://polilate.github.io/blog/2024/12/01/3/</guid>
+            <guid isPermalink="true">https://polilate.github.io/2024/12/01/3/</guid>
             <title>3</title>
-            <link>https://polilate.github.io/blog/2024/12/01/3/</link>
-            <category term="bar" scheme="https://polilate.github.io/blog/tags/bar/" />
-            <category term="baz" scheme="https://polilate.github.io/blog/tags/baz/" />
+            <link>https://polilate.github.io/2024/12/01/3/</link>
+            <category term="bar" scheme="https://polilate.github.io/tags/bar/" />
+            <category term="baz" scheme="https://polilate.github.io/tags/baz/" />
             <pubDate>Sun, 01 Dec 2024 21:29:09 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://polilate.github.io/blog/2024/12/01/2/</guid>
+            <guid isPermalink="true">https://polilate.github.io/2024/12/01/2/</guid>
             <title>2</title>
-            <link>https://polilate.github.io/blog/2024/12/01/2/</link>
-            <category term="bar" scheme="https://polilate.github.io/blog/tags/bar/" />
-            <category term="baz" scheme="https://polilate.github.io/blog/tags/baz/" />
+            <link>https://polilate.github.io/2024/12/01/2/</link>
+            <category term="bar" scheme="https://polilate.github.io/tags/bar/" />
+            <category term="baz" scheme="https://polilate.github.io/tags/baz/" />
             <pubDate>Sun, 01 Dec 2024 21:29:04 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://polilate.github.io/blog/2024/12/01/1/</guid>
+            <guid isPermalink="true">https://polilate.github.io/2024/12/01/1/</guid>
             <title>1</title>
-            <link>https://polilate.github.io/blog/2024/12/01/1/</link>
-            <category term="bar" scheme="https://polilate.github.io/blog/tags/bar/" />
-            <category term="baz" scheme="https://polilate.github.io/blog/tags/baz/" />
+            <link>https://polilate.github.io/2024/12/01/1/</link>
+            <category term="bar" scheme="https://polilate.github.io/tags/bar/" />
+            <category term="baz" scheme="https://polilate.github.io/tags/baz/" />
             <pubDate>Sun, 01 Dec 2024 21:27:54 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;todo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#todo&#34;&gt;#&lt;/a&gt; TODO&lt;/h1&gt;
 &lt;ol&gt;

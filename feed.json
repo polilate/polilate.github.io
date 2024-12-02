@@ -2,13 +2,13 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "H-links ` ShokaX",
     "subtitle": "H-T",
-    "icon": "https://polilate.github.io/blog/assets/favicon.ico",
+    "icon": "https://polilate.github.io/assets/favicon.ico",
     "description": "",
-    "home_page_url": "https://polilate.github.io/blog",
+    "home_page_url": "https://polilate.github.io",
     "items": [
         {
-            "id": "https://polilate.github.io/blog/2024/12/01/computer-science/cpp/course-1/c1/",
-            "url": "https://polilate.github.io/blog/2024/12/01/computer-science/cpp/course-1/c1/",
+            "id": "https://polilate.github.io/2024/12/01/computer-science/cpp/course-1/c1/",
+            "url": "https://polilate.github.io/2024/12/01/computer-science/cpp/course-1/c1/",
             "title": "c1",
             "date_published": "2024-12-01T13:35:08.080Z",
             "content_html": "",
@@ -21,8 +21,8 @@
             ]
         },
         {
-            "id": "https://polilate.github.io/blog/2024/12/01/4/",
-            "url": "https://polilate.github.io/blog/2024/12/01/4/",
+            "id": "https://polilate.github.io/2024/12/01/4/",
+            "url": "https://polilate.github.io/2024/12/01/4/",
             "title": "4",
             "date_published": "2024-12-01T13:29:14.094Z",
             "content_html": "",
@@ -32,8 +32,8 @@
             ]
         },
         {
-            "id": "https://polilate.github.io/blog/2024/12/01/3/",
-            "url": "https://polilate.github.io/blog/2024/12/01/3/",
+            "id": "https://polilate.github.io/2024/12/01/3/",
+            "url": "https://polilate.github.io/2024/12/01/3/",
             "title": "3",
             "date_published": "2024-12-01T13:29:09.122Z",
             "content_html": "",
@@ -43,8 +43,8 @@
             ]
         },
         {
-            "id": "https://polilate.github.io/blog/2024/12/01/2/",
-            "url": "https://polilate.github.io/blog/2024/12/01/2/",
+            "id": "https://polilate.github.io/2024/12/01/2/",
+            "url": "https://polilate.github.io/2024/12/01/2/",
             "title": "2",
             "date_published": "2024-12-01T13:29:04.750Z",
             "content_html": "",
@@ -54,8 +54,8 @@
             ]
         },
         {
-            "id": "https://polilate.github.io/blog/2024/12/01/1/",
-            "url": "https://polilate.github.io/blog/2024/12/01/1/",
+            "id": "https://polilate.github.io/2024/12/01/1/",
+            "url": "https://polilate.github.io/2024/12/01/1/",
             "title": "1",
             "date_published": "2024-12-01T13:27:54.877Z",
             "content_html": "<h1 id=\"todo\"><a class=\"anchor\" href=\"#todo\">#</a> TODO</h1>\n<ol>\n<li>图床轮播图片修改 done</li>\n<li>添加帖子</li>\n<li>音乐配置</li>\n<li>live2d 配置</li>\n<li>性能测试 / 优化</li>\n</ol>\n",
